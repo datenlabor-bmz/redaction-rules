@@ -2,9 +2,16 @@
 
 A collection of structured redaction rules based on freedom of information (FOI) and transparency laws from various jurisdictions.
 
+> **Disclaimer:** This is not an official legal source. While the rule texts are derived from official legal sources (linked in each rule file), this repository is provided for informational purposes only. Users should verify the accuracy and currency of the rules against the official sources before relying on them.
+
 ## Purpose
 
 This repository provides machine-readable JSON files containing legal grounds for redacting information in public documents. Each rule includes the legal reference, a short description, and the full legal text.
+
+## Data Sources
+
+- **`de-ifg-bund.json`** — Created manually
+- **All other rule sets** — Generated through research by Claude (claude-opus-4-5-20250514) based on official legal texts
 
 ## Usage
 
