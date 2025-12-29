@@ -22,10 +22,10 @@ All available rule sets are listed in [`rules.json`](https://raw.githubuserconte
 | File | Jurisdiction | Law |
 |------|--------------|-----|
 | [`de-ifg-bund.json`](rules/de-ifg-bund.json) | 🇩🇪 Germany (Federal) | [Informationsfreiheitsgesetz (IFG)](https://www.gesetze-im-internet.de/ifg/) |
-| [`us-foia.json`](rules/us-foia.json) | 🇺🇸 USA (Federal) | [Freedom of Information Act (FOIA)](https://www.law.cornell.edu/uscode/text/5/552) |
-| [`uk-foi.json`](rules/uk-foi.json) | 🇬🇧 United Kingdom | [Freedom of Information Act 2000](https://www.legislation.gov.uk/ukpga/2000/36) |
 | [`eu-1049.json`](rules/eu-1049.json) | 🇪🇺 European Union | [Regulation (EC) No 1049/2001](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32001R1049) |
 | [`fr-cada.json`](rules/fr-cada.json) | 🇫🇷 France | [Code des relations entre le public et l'administration (CRPA)](https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000031366350/LEGISCTA000031367696/) |
+| [`uk-foi.json`](rules/uk-foi.json) | 🇬🇧 United Kingdom | [Freedom of Information Act 2000](https://www.legislation.gov.uk/ukpga/2000/36) |
+| [`us-foia.json`](rules/us-foia.json) | 🇺🇸 USA (Federal) | [Freedom of Information Act (FOIA)](https://www.law.cornell.edu/uscode/text/5/552) |
 
 ## Schema
 
