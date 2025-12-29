@@ -1,0 +1,243 @@
+{
+    "metadata": {
+        "jurisdiction": "GB",
+        "jurisdiction_name": "United Kingdom",
+        "law_name": "Freedom of Information Act 2000",
+        "abbreviation": "FOIA",
+        "enacted": "2000-11-30",
+        "last_amended": "2018-05-23",
+        "version_date": "2025-12-29",
+        "official_url": "https://www.legislation.gov.uk/ukpga/2000/36",
+        "oversight_body": "Information Commissioner's Office (ICO)",
+        "language": "en",
+        "scope": "Public authorities in England, Wales, and Northern Ireland"
+    },
+    "rules": [
+        {
+            "group": "Accessible Information",
+            "title": "Accessible Information",
+            "reference": "Section 21",
+            "type": "absolute",
+            "reason": "Information reasonably accessible to the applicant by other means",
+            "full_text": "Information which is reasonably accessible to the applicant otherwise than under section 1 is exempt information.",
+            "url": "https://www.legislation.gov.uk/ukpga/2000/36/section/21"
+        },
+        {
+            "group": "Future Publication",
+            "title": "Future Publication",
+            "reference": "Section 22",
+            "type": "qualified",
+            "reason": "Information held with a view to future publication",
+            "full_text": "Information is exempt information if (a) the information is held by the public authority with a view to its publication, by the authority or any other person, at some future date (whether determined or not), (b) the information was already held with a view to such publication at the time when the request for information was made, and (c) it is reasonable in all the circumstances that the information should be withheld from disclosure until the date referred to in paragraph (a).",
+            "url": "https://www.legislation.gov.uk/ukpga/2000/36/section/22"
+        },
+        {
+            "group": "Research",
+            "title": "Research",
+            "reference": "Section 22A",
+            "type": "qualified",
+            "reason": "Information from ongoing research programme intended for publication",
+            "full_text": "Information obtained in the course of, or derived from, a programme of research is exempt information if (a) the programme is continuing with a view to the publication, by a public authority or any other person, of a report of the research (whether or not including a statement of that information), and (b) disclosure of the information under this Act before the date of publication would, or would be likely to, prejudice the programme, the interests of any individual participating in the programme, the interests of the authority which holds the information, or the interests of the authority mentioned in paragraph (a).",
+            "url": "https://www.legislation.gov.uk/ukpga/2000/36/section/22A"
+        },
+        {
+            "group": "National Security",
+            "title": "Security Bodies",
+            "reference": "Section 23",
+            "type": "absolute",
+            "reason": "Information supplied by or relating to security bodies",
+            "full_text": "Information held by a public authority is exempt information if it was directly or indirectly supplied to the public authority by, or relates to, any of the bodies specified in subsection (3) [including the Security Service, Secret Intelligence Service, GCHQ, special forces, and other security-related bodies].",
+            "url": "https://www.legislation.gov.uk/ukpga/2000/36/section/23"
+        },
+        {
+            "group": "National Security",
+            "title": "National Security",
+            "reference": "Section 24",
+            "type": "qualified",
+            "reason": "Exemption required to safeguard national security",
+            "full_text": "Information which does not fall within section 23(1) is exempt information if exemption from section 1(1)(b) is required for the purpose of safeguarding national security.",
+            "url": "https://www.legislation.gov.uk/ukpga/2000/36/section/24"
+        },
+        {
+            "group": "Defence",
+            "title": "Defence",
+            "reference": "Section 26",
+            "type": "qualified",
+            "reason": "Prejudice to defence of British Islands or armed forces capability",
+            "full_text": "Information is exempt information if its disclosure under this Act would, or would be likely to, prejudice (a) the defence of the British Islands or of any colony, or (b) the capability, effectiveness or security of any relevant forces.",
+            "url": "https://www.legislation.gov.uk/ukpga/2000/36/section/26"
+        },
+        {
+            "group": "International Relations",
+            "title": "International Relations",
+            "reference": "Section 27",
+            "type": "qualified",
+            "reason": "Prejudice to international relations or UK interests abroad",
+            "full_text": "Information is exempt information if its disclosure under this Act would, or would be likely to, prejudice (a) relations between the United Kingdom and any other State, (b) relations between the United Kingdom and any international organisation or international court, (c) the interests of the United Kingdom abroad, or (d) the promotion or protection by the United Kingdom of its interests abroad. Information is also exempt information if it is confidential information obtained from a State other than the United Kingdom or from an international organisation or international court.",
+            "url": "https://www.legislation.gov.uk/ukpga/2000/36/section/27"
+        },
+        {
+            "group": "Internal Relations",
+            "title": "Internal Relations",
+            "reference": "Section 28",
+            "type": "qualified",
+            "reason": "Prejudice to relations between UK administrations",
+            "full_text": "Information is exempt information if its disclosure under this Act would, or would be likely to, prejudice relations between any administration in the United Kingdom and any other such administration [including the UK Government, Scottish Administration, Executive Committee of Northern Ireland Assembly, and Welsh Assembly Government].",
+            "url": "https://www.legislation.gov.uk/ukpga/2000/36/section/28"
+        },
+        {
+            "group": "Economic Interests",
+            "title": "Economic Interests",
+            "reference": "Section 29",
+            "type": "qualified",
+            "reason": "Prejudice to economic or financial interests",
+            "full_text": "Information is exempt information if its disclosure under this Act would, or would be likely to, prejudice (a) the economic interests of the United Kingdom or of any part of the United Kingdom, or (b) the financial interests of any administration in the United Kingdom.",
+            "url": "https://www.legislation.gov.uk/ukpga/2000/36/section/29"
+        },
+        {
+            "group": "Investigations",
+            "title": "Investigations",
+            "reference": "Section 30",
+            "type": "qualified",
+            "reason": "Information held for criminal investigations or proceedings",
+            "full_text": "Information held by a public authority is exempt information if it has at any time been held by the authority for the purposes of (a) any investigation which the public authority has a duty to conduct with a view to it being ascertained whether a person should be charged with an offence, or whether a person charged with an offence is guilty of it, (b) any investigation which is conducted by the authority and in the circumstances may lead to a decision by the authority to institute criminal proceedings which the authority has power to conduct, or (c) any criminal proceedings which the authority has power to conduct.",
+            "url": "https://www.legislation.gov.uk/ukpga/2000/36/section/30"
+        },
+        {
+            "group": "Law Enforcement",
+            "title": "Law Enforcement",
+            "reference": "Section 31",
+            "type": "qualified",
+            "reason": "Prejudice to law enforcement activities",
+            "full_text": "Information which is not exempt information by virtue of section 30 is exempt information if its disclosure under this Act would, or would be likely to, prejudice (a) the prevention or detection of crime, (b) the apprehension or prosecution of offenders, (c) the administration of justice, (d) the assessment or collection of any tax or duty or of any imposition of a similar nature, (e) the operation of the immigration controls, (f) the maintenance of security and good order in prisons or in other institutions where persons are lawfully detained, (g) the exercise by any public authority of its functions for any of the purposes specified in subsection (2)...",
+            "url": "https://www.legislation.gov.uk/ukpga/2000/36/section/31"
+        },
+        {
+            "group": "Court Records",
+            "title": "Court Records",
+            "reference": "Section 32",
+            "type": "absolute",
+            "reason": "Information held only by virtue of being in court documents",
+            "full_text": "Information held by a public authority is exempt information if it is held only by virtue of being contained in (a) any document filed with, or otherwise placed in the custody of, a court for the purposes of proceedings in a particular cause or matter, (b) any document served upon, or by, a public authority for the purposes of proceedings in a particular cause or matter, or (c) any document created by a court, or a member of the administrative staff of a court, for the purposes of proceedings in a particular cause or matter.",
+            "url": "https://www.legislation.gov.uk/ukpga/2000/36/section/32"
+        },
+        {
+            "group": "Audit",
+            "title": "Audit",
+            "reference": "Section 33",
+            "type": "qualified",
+            "reason": "Prejudice to audit or examination functions",
+            "full_text": "Information held by a public authority to which this section applies is exempt information if its disclosure would, or would be likely to, prejudice the exercise of any of the authority's functions in relation to the audit of the accounts of other public authorities, or the examination of the economy, efficiency and effectiveness with which other public authorities use their resources in discharging their functions.",
+            "url": "https://www.legislation.gov.uk/ukpga/2000/36/section/33"
+        },
+        {
+            "group": "Parliamentary Privilege",
+            "title": "Parliamentary Privilege",
+            "reference": "Section 34",
+            "type": "absolute",
+            "reason": "Avoidance of infringement of parliamentary privilege",
+            "full_text": "Information is exempt information if exemption from section 1(1)(b) is required for the purpose of avoiding an infringement of the privileges of either House of Parliament.",
+            "url": "https://www.legislation.gov.uk/ukpga/2000/36/section/34"
+        },
+        {
+            "group": "Government Policy",
+            "title": "Government Policy",
+            "reference": "Section 35",
+            "type": "qualified",
+            "reason": "Information relating to formulation of government policy",
+            "full_text": "Information held by a government department or by the Welsh Assembly Government is exempt information if it relates to (a) the formulation or development of government policy, (b) Ministerial communications, (c) the provision of advice by any of the Law Officers or any request for the provision of such advice, or (d) the operation of any Ministerial private office.",
+            "url": "https://www.legislation.gov.uk/ukpga/2000/36/section/35"
+        },
+        {
+            "group": "Public Affairs",
+            "title": "Public Affairs",
+            "reference": "Section 36",
+            "type": "qualified",
+            "reason": "Prejudice to effective conduct of public affairs",
+            "full_text": "Information to which this section applies is exempt information if, in the reasonable opinion of a qualified person, disclosure of the information under this Act (a) would, or would be likely to, prejudice the maintenance of the convention of the collective responsibility of Ministers of the Crown, the work of the Executive Committee of the Northern Ireland Assembly, or the work of the Cabinet of the Welsh Assembly Government, (b) would, or would be likely to, inhibit the free and frank provision of advice, or the free and frank exchange of views for the purposes of deliberation, or (c) would otherwise prejudice, or would be likely otherwise to prejudice, the effective conduct of public affairs.",
+            "url": "https://www.legislation.gov.uk/ukpga/2000/36/section/36"
+        },
+        {
+            "group": "Royal Communications",
+            "title": "Royal Communications",
+            "reference": "Section 37",
+            "type": "mixed",
+            "reason": "Communications with the Royal Family or conferring of honours",
+            "full_text": "Information is exempt information if it relates to (a) communications with the Sovereign, (aa) communications with the heir to, or the person who is for the time being second in line of succession to, the Throne, (ab) communications with a person who has subsequently acceded to the Throne or become heir to, or second in line to, the Throne, (ac) communications with other members of the Royal Family, (ad) communications with the Royal Household, or (b) the conferring by the Crown of any honour or dignity.",
+            "url": "https://www.legislation.gov.uk/ukpga/2000/36/section/37"
+        },
+        {
+            "group": "Health and Safety",
+            "title": "Health and Safety",
+            "reference": "Section 38",
+            "type": "qualified",
+            "reason": "Endangerment of health or safety of any individual",
+            "full_text": "Information is exempt information if its disclosure under this Act would, or would be likely to (a) endanger the physical or mental health of any individual, or (b) endanger the safety of any individual.",
+            "url": "https://www.legislation.gov.uk/ukpga/2000/36/section/38"
+        },
+        {
+            "group": "Environmental Information",
+            "title": "Environmental Information",
+            "reference": "Section 39",
+            "type": "qualified",
+            "reason": "Environmental information accessible under EIR",
+            "full_text": "Information is exempt information if the public authority holding it (a) is obliged by environmental information regulations to make the information available to the public in accordance with the regulations, or (b) would be so obliged but for any exemption contained in the regulations.",
+            "url": "https://www.legislation.gov.uk/ukpga/2000/36/section/39"
+        },
+        {
+            "group": "Personal Data",
+            "title": "Personal Data",
+            "reference": "Section 40",
+            "type": "mixed",
+            "reason": "Personal data (applicant's own data or third party data)",
+            "full_text": "Any information to which a request for information relates is exempt information if it constitutes personal data of which the applicant is the data subject. Any information to which a request for information relates is also exempt information if (a) it constitutes personal data which does not fall within subsection (1), and (b) the first, second or third condition below is satisfied [including conditions related to contravention of data protection principles or GDPR provisions].",
+            "url": "https://www.legislation.gov.uk/ukpga/2000/36/section/40"
+        },
+        {
+            "group": "Confidentiality",
+            "title": "Confidentiality",
+            "reference": "Section 41",
+            "type": "absolute",
+            "reason": "Breach of confidence actionable by third party",
+            "full_text": "Information is exempt information if (a) it was obtained by the public authority from any other person (including another public authority), and (b) the disclosure of the information to the public (otherwise than under this Act) by the public authority holding it would constitute a breach of confidence actionable by that or any other person.",
+            "url": "https://www.legislation.gov.uk/ukpga/2000/36/section/41"
+        },
+        {
+            "group": "Legal Privilege",
+            "title": "Legal Privilege",
+            "reference": "Section 42",
+            "type": "qualified",
+            "reason": "Information subject to legal professional privilege",
+            "full_text": "Information in respect of which a claim to legal professional privilege or, in Scotland, to confidentiality of communications could be maintained in legal proceedings is exempt information.",
+            "url": "https://www.legislation.gov.uk/ukpga/2000/36/section/42"
+        },
+        {
+            "group": "Commercial Interests",
+            "title": "Trade Secrets",
+            "reference": "Section 43(1)",
+            "type": "qualified",
+            "reason": "Trade secrets",
+            "full_text": "Information is exempt information if it constitutes a trade secret.",
+            "url": "https://www.legislation.gov.uk/ukpga/2000/36/section/43"
+        },
+        {
+            "group": "Commercial Interests",
+            "title": "Commercial Interests",
+            "reference": "Section 43(2)",
+            "type": "qualified",
+            "reason": "Prejudice to commercial interests",
+            "full_text": "Information is exempt information if its disclosure under this Act would, or would be likely to, prejudice the commercial interests of any person (including the public authority holding it).",
+            "url": "https://www.legislation.gov.uk/ukpga/2000/36/section/43"
+        },
+        {
+            "group": "Prohibitions",
+            "title": "Prohibitions",
+            "reference": "Section 44",
+            "type": "absolute",
+            "reason": "Disclosure prohibited by enactment, EU obligation, or contempt of court",
+            "full_text": "Information is exempt information if its disclosure (otherwise than under this Act) by the public authority holding it (a) is prohibited by or under any enactment, (b) is incompatible with any assimilated obligation, or (c) would constitute or be punishable as a contempt of court.",
+            "url": "https://www.legislation.gov.uk/ukpga/2000/36/section/44"
+        }
+    ]
+}
+

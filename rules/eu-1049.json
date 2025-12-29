@@ -1,0 +1,145 @@
+{
+    "metadata": {
+        "jurisdiction": "EU",
+        "jurisdiction_name": "European Union",
+        "law_name": "Regulation (EC) No 1049/2001",
+        "law_name_en": "Regulation regarding public access to European Parliament, Council and Commission documents",
+        "abbreviation": "Regulation 1049/2001",
+        "enacted": "2001-05-30",
+        "last_amended": null,
+        "version_date": "2025-12-29",
+        "official_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32001R1049",
+        "oversight_body": "European Ombudsman",
+        "language": "en",
+        "scope": "European Parliament, Council, and Commission documents"
+    },
+    "rules": [
+        {
+            "group": "Public Security",
+            "title": "Public Security",
+            "reference": "Article 4(1)(a), first indent",
+            "type": "absolute",
+            "reason": "Protection of public security",
+            "full_text": "The institutions shall refuse access to a document where disclosure would undermine the protection of the public interest as regards public security.",
+            "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32001R1049"
+        },
+        {
+            "group": "Defence",
+            "title": "Defence",
+            "reference": "Article 4(1)(a), second indent",
+            "type": "absolute",
+            "reason": "Protection of defence and military matters",
+            "full_text": "The institutions shall refuse access to a document where disclosure would undermine the protection of the public interest as regards defence and military matters.",
+            "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32001R1049"
+        },
+        {
+            "group": "International Relations",
+            "title": "International Relations",
+            "reference": "Article 4(1)(a), third indent",
+            "type": "absolute",
+            "reason": "Protection of international relations",
+            "full_text": "The institutions shall refuse access to a document where disclosure would undermine the protection of the public interest as regards international relations.",
+            "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32001R1049"
+        },
+        {
+            "group": "Economic Policy",
+            "title": "Economic Policy",
+            "reference": "Article 4(1)(a), fourth indent",
+            "type": "absolute",
+            "reason": "Protection of financial, monetary or economic policy",
+            "full_text": "The institutions shall refuse access to a document where disclosure would undermine the protection of the public interest as regards the financial, monetary or economic policy of the Community or a Member State.",
+            "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32001R1049"
+        },
+        {
+            "group": "Privacy",
+            "title": "Privacy",
+            "reference": "Article 4(1)(b)",
+            "type": "absolute",
+            "reason": "Protection of privacy and integrity of the individual",
+            "full_text": "The institutions shall refuse access to a document where disclosure would undermine the protection of privacy and the integrity of the individual, in particular in accordance with Community legislation regarding the protection of personal data.",
+            "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32001R1049"
+        },
+        {
+            "group": "Commercial Interests",
+            "title": "Commercial Interests",
+            "reference": "Article 4(2), first indent",
+            "type": "qualified",
+            "reason": "Protection of commercial interests including intellectual property",
+            "full_text": "The institutions shall refuse access to a document where disclosure would undermine the protection of commercial interests of a natural or legal person, including intellectual property, unless there is an overriding public interest in disclosure.",
+            "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32001R1049"
+        },
+        {
+            "group": "Legal Proceedings",
+            "title": "Court Proceedings",
+            "reference": "Article 4(2), second indent",
+            "type": "qualified",
+            "reason": "Protection of court proceedings",
+            "full_text": "The institutions shall refuse access to a document where disclosure would undermine the protection of court proceedings and legal advice, unless there is an overriding public interest in disclosure.",
+            "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32001R1049"
+        },
+        {
+            "group": "Legal Proceedings",
+            "title": "Legal Advice",
+            "reference": "Article 4(2), second indent",
+            "type": "qualified",
+            "reason": "Protection of legal advice",
+            "full_text": "The institutions shall refuse access to a document where disclosure would undermine the protection of court proceedings and legal advice, unless there is an overriding public interest in disclosure.",
+            "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32001R1049"
+        },
+        {
+            "group": "Inspections and Audits",
+            "title": "Inspections and Audits",
+            "reference": "Article 4(2), third indent",
+            "type": "qualified",
+            "reason": "Protection of inspections, investigations and audits",
+            "full_text": "The institutions shall refuse access to a document where disclosure would undermine the protection of the purpose of inspections, investigations and audits, unless there is an overriding public interest in disclosure.",
+            "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32001R1049"
+        },
+        {
+            "group": "Decision-Making Process",
+            "title": "Pending Decisions",
+            "reference": "Article 4(3), first subparagraph",
+            "type": "qualified",
+            "reason": "Protection of decision-making process before decision is taken",
+            "full_text": "Access to a document, drawn up by an institution for internal use or received by an institution, which relates to a matter where the decision has not been taken by the institution, shall be refused if disclosure of the document would seriously undermine the institution's decision-making process, unless there is an overriding public interest in disclosure.",
+            "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32001R1049"
+        },
+        {
+            "group": "Decision-Making Process",
+            "title": "Internal Deliberations",
+            "reference": "Article 4(3), second subparagraph",
+            "type": "qualified",
+            "reason": "Protection of internal deliberations and preliminary consultations",
+            "full_text": "Access to a document containing opinions for internal use as part of deliberations and preliminary consultations within the institution concerned shall be refused even after the decision has been taken if disclosure of the document would seriously undermine the institution's decision-making process, unless there is an overriding public interest in disclosure.",
+            "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32001R1049"
+        },
+        {
+            "group": "Third-Party Documents",
+            "title": "Third-Party Documents",
+            "reference": "Article 4(4)",
+            "type": "qualified",
+            "reason": "Consultation required for third-party documents",
+            "full_text": "As regards third-party documents, the institution shall consult the third party with a view to assessing whether an exception in paragraph 1 or 2 is applicable, unless it is clear that the document shall or shall not be disclosed.",
+            "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32001R1049"
+        },
+        {
+            "group": "Member State Documents",
+            "title": "Member State Documents",
+            "reference": "Article 4(5)",
+            "type": "qualified",
+            "reason": "Documents originating from Member States",
+            "full_text": "A Member State may request the institution not to disclose a document originating from that Member State without its prior agreement.",
+            "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32001R1049"
+        },
+        {
+            "group": "Sensitive Documents",
+            "title": "Sensitive Documents",
+            "reference": "Article 9",
+            "type": "absolute",
+            "reason": "Classified documents (TOP SECRET, SECRET, CONFIDENTIEL)",
+            "full_text": "Sensitive documents are documents originating from the institutions or the agencies established by them, from Member States, third countries or International Organisations, classified as 'TRÈS SECRET/TOP SECRET', 'SECRET' or 'CONFIDENTIEL' in accordance with the rules of the institution concerned, which protect essential interests of the European Union or of one or more of its Member States in the areas covered by Article 4(1)(a), notably public security, defence and military matters.",
+            "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32001R1049"
+        }
+    ]
+}
+

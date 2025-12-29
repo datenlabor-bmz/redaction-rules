@@ -1,0 +1,139 @@
+{
+    "metadata": {
+        "jurisdiction": "FR",
+        "jurisdiction_name": "France",
+        "law_name": "Code des relations entre le public et l'administration",
+        "law_name_en": "Code of relations between the public and the administration",
+        "abbreviation": "CRPA",
+        "enacted": "2016-01-01",
+        "last_amended": "2018-07-30",
+        "version_date": "2025-12-29",
+        "official_url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000031366350",
+        "oversight_body": "Commission d'accès aux documents administratifs (CADA)",
+        "language": "fr",
+        "scope": "Documents administratifs"
+    },
+    "rules": [
+        {
+            "group": "Documents non communicables",
+            "title": "Avis du Conseil d'État et juridictions",
+            "reference": "Article L311-5, 1°",
+            "reason": "Avis du Conseil d'État et documents des juridictions financières",
+            "full_text": "Ne sont pas communicables les avis du Conseil d'Etat et des juridictions administratives, les documents de la Cour des comptes mentionnés à l'article L. 141-3 du code des juridictions financières et les documents des chambres régionales des comptes mentionnés aux articles L. 241-1 et L. 241-4 du même code.",
+            "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033265181"
+        },
+        {
+            "group": "Documents non communicables",
+            "title": "Autorité de la concurrence",
+            "reference": "Article L311-5, 1°",
+            "reason": "Documents de l'Autorité de la concurrence",
+            "full_text": "Ne sont pas communicables les documents élaborés ou détenus par l'Autorité de la concurrence dans le cadre de l'exercice de ses pouvoirs d'enquête, d'instruction et de décision.",
+            "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033265181"
+        },
+        {
+            "group": "Documents non communicables",
+            "title": "Haute Autorité pour la transparence de la vie publique",
+            "reference": "Article L311-5, 1°",
+            "reason": "Documents de la HATVP",
+            "full_text": "Ne sont pas communicables les documents élaborés ou détenus par la Haute Autorité pour la transparence de la vie publique dans le cadre des missions prévues à l'article 20 de la loi n° 2013-907 du 11 octobre 2013 relative à la transparence de la vie publique.",
+            "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033265181"
+        },
+        {
+            "group": "Secret gouvernemental",
+            "title": "Secret gouvernemental",
+            "reference": "Article L311-5, 2° a)",
+            "reason": "Secret des délibérations du Gouvernement",
+            "full_text": "Ne sont pas communicables les documents administratifs dont la consultation ou la communication porterait atteinte au secret des délibérations du Gouvernement et des autorités responsables relevant du pouvoir exécutif.",
+            "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033265181"
+        },
+        {
+            "group": "Défense nationale",
+            "title": "Défense nationale",
+            "reference": "Article L311-5, 2° b)",
+            "reason": "Secret de la défense nationale",
+            "full_text": "Ne sont pas communicables les documents administratifs dont la consultation ou la communication porterait atteinte au secret de la défense nationale.",
+            "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033265181"
+        },
+        {
+            "group": "Politique extérieure",
+            "title": "Politique extérieure",
+            "reference": "Article L311-5, 2° c)",
+            "reason": "Conduite de la politique extérieure de la France",
+            "full_text": "Ne sont pas communicables les documents administratifs dont la consultation ou la communication porterait atteinte à la conduite de la politique extérieure de la France.",
+            "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033265181"
+        },
+        {
+            "group": "Sécurité",
+            "title": "Sûreté de l'État",
+            "reference": "Article L311-5, 2° d)",
+            "reason": "Sûreté de l'État et sécurité publique",
+            "full_text": "Ne sont pas communicables les documents administratifs dont la consultation ou la communication porterait atteinte à la sûreté de l'Etat, à la sécurité publique, à la sécurité des personnes ou à la sécurité des systèmes d'information des administrations.",
+            "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033265181"
+        },
+        {
+            "group": "Monnaie et crédit",
+            "title": "Monnaie et crédit",
+            "reference": "Article L311-5, 2° e)",
+            "reason": "Monnaie et crédit public",
+            "full_text": "Ne sont pas communicables les documents administratifs dont la consultation ou la communication porterait atteinte à la monnaie et au crédit public.",
+            "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033265181"
+        },
+        {
+            "group": "Procédures juridictionnelles",
+            "title": "Procédures juridictionnelles",
+            "reference": "Article L311-5, 2° f)",
+            "reason": "Déroulement des procédures juridictionnelles",
+            "full_text": "Ne sont pas communicables les documents administratifs dont la consultation ou la communication porterait atteinte au déroulement des procédures engagées devant les juridictions ou d'opérations préliminaires à de telles procédures, sauf autorisation donnée par l'autorité compétente.",
+            "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033265181"
+        },
+        {
+            "group": "Recherche d'infractions",
+            "title": "Recherche d'infractions",
+            "reference": "Article L311-5, 2° g)",
+            "reason": "Recherche et prévention d'infractions",
+            "full_text": "Ne sont pas communicables les documents administratifs dont la consultation ou la communication porterait atteinte à la recherche et à la prévention, par les services compétents, d'infractions de toute nature.",
+            "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033265181"
+        },
+        {
+            "group": "Autres secrets",
+            "title": "Autres secrets",
+            "reference": "Article L311-5, 2° h)",
+            "reason": "Autres secrets protégés par la loi",
+            "full_text": "Ne sont pas communicables les documents administratifs dont la consultation ou la communication porterait atteinte, sous réserve de l'article L. 124-4 du code de l'environnement, aux autres secrets protégés par la loi.",
+            "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033265181"
+        },
+        {
+            "group": "Vie privée",
+            "title": "Vie privée et secret des affaires",
+            "reference": "Article L311-6, 1°",
+            "reason": "Protection de la vie privée, secret médical et secret des affaires",
+            "full_text": "Ne sont communicables qu'à l'intéressé les documents administratifs dont la communication porterait atteinte à la protection de la vie privée, au secret médical et au secret des affaires, lequel comprend le secret des procédés, des informations économiques et financières et des stratégies commerciales ou industrielles et est apprécié en tenant compte, le cas échéant, du fait que la mission de service public de l'administration mentionnée au premier alinéa de l'article L. 300-2 est soumise à la concurrence.",
+            "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000037269056"
+        },
+        {
+            "group": "Appréciation sur une personne",
+            "title": "Appréciation sur une personne",
+            "reference": "Article L311-6, 2°",
+            "reason": "Appréciation ou jugement de valeur sur une personne physique",
+            "full_text": "Ne sont communicables qu'à l'intéressé les documents administratifs portant une appréciation ou un jugement de valeur sur une personne physique, nommément désignée ou facilement identifiable.",
+            "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000037269056"
+        },
+        {
+            "group": "Comportement d'une personne",
+            "title": "Comportement d'une personne",
+            "reference": "Article L311-6, 3°",
+            "reason": "Comportement d'une personne pouvant lui porter préjudice",
+            "full_text": "Ne sont communicables qu'à l'intéressé les documents administratifs faisant apparaître le comportement d'une personne, dès lors que la divulgation de ce comportement pourrait lui porter préjudice.",
+            "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000037269056"
+        },
+        {
+            "group": "Secret médical",
+            "title": "Secret médical",
+            "reference": "Article L311-6, alinéa 4",
+            "reason": "Informations à caractère médical",
+            "full_text": "Les informations à caractère médical sont communiquées à l'intéressé, selon son choix, directement ou par l'intermédiaire d'un médecin qu'il désigne à cet effet, dans le respect des dispositions de l'article L. 1111-7 du code de la santé publique.",
+            "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000037269056"
+        }
+    ]
+}
+

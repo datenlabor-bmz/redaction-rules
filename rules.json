@@ -1,0 +1,50 @@
+{
+    "rules": [
+        {
+            "id": "de-ifg-bund",
+            "jurisdiction": "DE",
+            "jurisdiction_name": "Germany (Federal)",
+            "law_name": "Informationsfreiheitsgesetz",
+            "abbreviation": "IFG",
+            "language": "de",
+            "url": "https://raw.githubusercontent.com/datenlabor-bmz/redaction-rules/main/rules/de-ifg-bund.json"
+        },
+        {
+            "id": "eu-1049",
+            "jurisdiction": "EU",
+            "jurisdiction_name": "European Union",
+            "law_name": "Regulation (EC) No 1049/2001",
+            "abbreviation": "Regulation 1049/2001",
+            "language": "en",
+            "url": "https://raw.githubusercontent.com/datenlabor-bmz/redaction-rules/main/rules/eu-1049.json"
+        },
+        {
+            "id": "fr-cada",
+            "jurisdiction": "FR",
+            "jurisdiction_name": "France",
+            "law_name": "Code des relations entre le public et l'administration",
+            "abbreviation": "CRPA",
+            "language": "fr",
+            "url": "https://raw.githubusercontent.com/datenlabor-bmz/redaction-rules/main/rules/fr-cada.json"
+        },
+        {
+            "id": "uk-foi",
+            "jurisdiction": "GB",
+            "jurisdiction_name": "United Kingdom",
+            "law_name": "Freedom of Information Act 2000",
+            "abbreviation": "FOIA",
+            "language": "en",
+            "url": "https://raw.githubusercontent.com/datenlabor-bmz/redaction-rules/main/rules/uk-foi.json"
+        },
+        {
+            "id": "us-foia",
+            "jurisdiction": "US",
+            "jurisdiction_name": "United States (Federal)",
+            "law_name": "Freedom of Information Act",
+            "abbreviation": "FOIA",
+            "language": "en",
+            "url": "https://raw.githubusercontent.com/datenlabor-bmz/redaction-rules/main/rules/us-foia.json"
+        }
+    ]
+}
+
